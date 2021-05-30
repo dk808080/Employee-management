@@ -1,0 +1,10 @@
+.App {
+ margin:1rem auto;
+ padding: 0 15rem;
+ text-align: center;
+}
+
+.col>input
+{
+  margin:0.5rem 0;
+}
