@@ -1,4 +1,12 @@
-## Available Scripts
+## Employee Management system
+Add you own databse details in index.js for database connectivity.
+<br/>
+# Tech Stack 
+ReactJs <br/>
+NodeJs <br/>
+MySQL <br/>
+
+# Available Scripts
 
 In the project directory, you can run:
 <br/>
