@@ -1,6 +1,13 @@
-# Employee Management system
+## Available Scripts
 
-Add your own information of databse in server/index.js to make a database connection.
+In the project directory, you can run:
+<br/>
+To start the server
+### `cd server`
+### `npm install`
+### `node index.js`
 
-#Available Scripts
-
+To start the client
+### `cd curd`
+### `npm install`
+### `npm start`
