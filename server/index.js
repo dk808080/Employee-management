@@ -13,10 +13,10 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 
 const db = mysql.createPool({
-    user: "uvmdu30wfcyvrcik",
-    host: "b8cq67hagjxoqvjbf8lb-mysql.services.clever-cloud.com",
-    password: "CcI3xkiAkmrG1bSNm4J9",
-    database: "b8cq67hagjxoqvjbf8lb",
+    user: "",
+    host: "",
+    password: "",
+    database: "",
 });
 db.getConnection(function (err, connection) {
     // Use the connection
